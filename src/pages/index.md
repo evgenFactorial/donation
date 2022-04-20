@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: This is a page where we can donate some money for Ukraine
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/800px-Flag_of_Ukraine.svg.png
+image: /img/flag_of_ukraine.svg.webp
 heading: Great coffee with a conscience
 subheading: Support Ukraine
 mainpitch:
